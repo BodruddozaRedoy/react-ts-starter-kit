@@ -1,0 +1,42 @@
+{
+  "name": "react-ts-starter-kit",
+  "version": "1.0.4",
+  "description": "A Vite React boilerplate generator that creates a complete project structure with pre-written components and configuration",
+  "main": "index.js",
+  "bin": {
+    "create-vite-react": "./bin/create-react-boilerplate.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/create-react-boilerplate.js"
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "boilerplate",
+    "generator",
+    "template",
+    "starter",
+    "scaffold",
+    "react-ts-starter-kit"
+  ],
+  "author": "Bodruddoza Redoy",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.3.0",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/react-boilerplate-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/react-boilerplate-generator/issues"
+  },
+  "homepage": "https://github.com/yourusername/react-boilerplate-generator#readme"
+} 
