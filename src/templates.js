@@ -4,17 +4,19 @@ function getPackageJson(projectName, options) {
     "react-dom": "^19.1.0",
     "react-icons": "^5.5.0",
     "tailwindcss": "^4.1.11",
-    "@tailwindcss/vite": "^4.1.11"
+    "@tailwindcss/vite": "^4.1.11",
   };
 
   const devDependencies = {
-    "@vitejs/plugin-react": "^4.7.0",
-    "vite": "^7.1.0",
     "@eslint/js": "^9.32.1",
+    "@types/react": "^19.1.9",
+    "@types/react-dom": "^19.1.7",
+    "@vitejs/plugin-react": "^4.7.0",
     "eslint": "^9.32.0",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
     "globals": "^16.3.0",
+    "vite": "^7.1.0",
   };
 
   if (options.useRouter) {
@@ -289,7 +291,7 @@ function getAppComponent(options) {
     <div>App</div>
   )
 }
-  `
+  `;
 }
 
 function getNavbarComponent(options) {
@@ -422,7 +424,7 @@ export default About;`;
 function getGlobalStyles() {
   return `
     @import "tailwindcss";
-  `
+  `;
 }
 
 function getStoreConfig(options) {
