@@ -7,7 +7,7 @@ A modern CLI tool that generates a complete Vite React TypeScript project struct
 - 🚀 **Quick Setup**: Generate a complete React TypeScript project in seconds
 - ⚙️ **Modern Stack**: Built with Vite, React 19, TypeScript, and ESLint
 - 📁 **Organized Structure**: Well-organized folder structure following React best practices
-- 🎨 **Modern UI**: Pre-built components with responsive design
+- 🎨 **Modern UI**: Pre-built components with responsive design using tailwind
 - 📝 **Code Quality**: Modern ESLint configuration with TypeScript support
 - 🔧 **Multiple Options**: Support for Redux Toolkit, React Router, React Icons
 - 🏗️ **Scalable Architecture**: Ready for large-scale applications
