@@ -24,7 +24,6 @@ npm install -g react-ts-starter-kit
 
 ```bash
 npm install react-ts-starter-kit
-npx create-vite-react my-app
 ```
 
 ## Usage
@@ -32,7 +31,7 @@ npx create-vite-react my-app
 ### Basic Usage
 
 ```bash
-create-vite-react my-app
+npx create-vite-react my-app
 ```
 
 This will start an interactive CLI that asks for your preferences.
