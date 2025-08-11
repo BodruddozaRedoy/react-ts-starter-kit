@@ -1,7 +1,7 @@
 {
   "name": "react-ts-starter-kit",
-  "version": "1.0.6",
-  "description": "A Vite React boilerplate generator that creates a complete project structure with pre-written components and configuration",
+  "version": "1.0.7",
+  "description": "🚀 A modern Vite + React + TypeScript boilerplate with Tailwind CSS, ShadCN UI, ESLint, Prettier, and ready-to-use project structure.",
   "main": "index.js",
   "bin": {
     "create-vite-react": "./bin/create-react-boilerplate.js"
@@ -13,12 +13,19 @@
   "keywords": [
     "react",
     "vite",
+    "typescript",
+    "starter",
+    "starter-kit",
     "boilerplate",
     "generator",
     "template",
-    "starter",
+    "frontend",
+    "tailwind",
+    "shadcn",
     "scaffold",
-    "react-ts-starter-kit"
+    "setup",
+    "react-vite-template",
+    "vite-react-typescript"
   ],
   "author": "Bodruddoza Redoy",
   "license": "MIT",
@@ -33,10 +40,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/react-boilerplate-generator.git"
+    "url": "https://github.com/BodruddozaRedoy/react-ts-starter-kit.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/react-boilerplate-generator/issues"
+    "url": "https://github.com/bodruddoza-redoy/react-ts-starter-kit/issues"
   },
-  "homepage": "https://github.com/yourusername/react-boilerplate-generator#readme"
-} 
+  "homepage": "https://github.com/BodruddozaRedoy/react-ts-starter-kit"
+}
